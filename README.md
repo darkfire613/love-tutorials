@@ -1,2 +1,2 @@
-# love-tutorials
-Source files for my Love2d tutorial series
+# Game Development with Love2D: Source Files
+Source files for my Love2d [tutorial series](http://owenmonsma.com/code/love-tutorials/).
